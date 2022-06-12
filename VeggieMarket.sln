@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeggieMarket.Data", "VeggieMarket.Data\VeggieMarket.Data.csproj", "{EAA4F22B-7456-44D6-8B2D-464ED0BD4D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeggieMarket.Services", "VeggieMarket.Services\VeggieMarket.Services.csproj", "{E60286AF-1691-44C5-B560-0A009C80DCE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeggieMarket.Test", "VeggieMarket.Test\VeggieMarket.Test.csproj", "{8963E653-F59A-45CF-B692-1AFE0D86DB06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeggieMarket.Web", "VeggieMarket.Web\VeggieMarket.Web.csproj", "{674CB7E3-8395-48B3-AC45-E449CE2EFF9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA4F22B-7456-44D6-8B2D-464ED0BD4D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA4F22B-7456-44D6-8B2D-464ED0BD4D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA4F22B-7456-44D6-8B2D-464ED0BD4D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA4F22B-7456-44D6-8B2D-464ED0BD4D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60286AF-1691-44C5-B560-0A009C80DCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60286AF-1691-44C5-B560-0A009C80DCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60286AF-1691-44C5-B560-0A009C80DCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60286AF-1691-44C5-B560-0A009C80DCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8963E653-F59A-45CF-B692-1AFE0D86DB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8963E653-F59A-45CF-B692-1AFE0D86DB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8963E653-F59A-45CF-B692-1AFE0D86DB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8963E653-F59A-45CF-B692-1AFE0D86DB06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{674CB7E3-8395-48B3-AC45-E449CE2EFF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674CB7E3-8395-48B3-AC45-E449CE2EFF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674CB7E3-8395-48B3-AC45-E449CE2EFF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674CB7E3-8395-48B3-AC45-E449CE2EFF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
